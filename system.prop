@@ -1,0 +1,7 @@
+#
+# system.prop for kyleplusctc
+#
+
+ro.emmc.sdcard.partition=18
+persist.fuse_sdcard=true
+
